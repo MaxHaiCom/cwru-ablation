@@ -1,0 +1,10 @@
+cell: load3_envelope_lr
+load_hp: 3
+model: envelope_lr
+seed: 7
+sample_rate_hz: 12000
+window: 2048
+hop: 1024
+fault_diameter_in: 0.007
+target_macro_f1: 0.85
+max_normal_fpr_at_recall_0_90: 0.10

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/manifest.json
+data/mat/
+results/*.json
+weights/
+.DS_Store

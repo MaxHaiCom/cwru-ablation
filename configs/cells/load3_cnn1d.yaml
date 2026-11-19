@@ -1,0 +1,17 @@
+cell: load3_cnn1d
+load_hp: 3
+model: cnn1d
+seed: 7
+sample_rate_hz: 12000
+window: 2048
+hop: 1024
+fault_diameter_in: 0.007
+target_macro_f1: 0.85
+max_normal_fpr_at_recall_0_90: 0.10
+optimizer: adamw
+loss: cross_entropy
+grad_clip: 1.0
+lr: 0.001
+kernel: 8
+dilation: 1
+batch: 32

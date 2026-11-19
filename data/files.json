@@ -1,0 +1,21 @@
+{
+  "source": "CWRU Bearing Data Center, drive end, 0.007 inch, 12 kHz file numbers",
+  "records": [
+    {"file": 97, "load_hp": 0, "rpm": 1797, "label": "normal"},
+    {"file": 98, "load_hp": 1, "rpm": 1772, "label": "normal"},
+    {"file": 99, "load_hp": 2, "rpm": 1750, "label": "normal"},
+    {"file": 100, "load_hp": 3, "rpm": 1730, "label": "normal"},
+    {"file": 105, "load_hp": 0, "rpm": 1797, "label": "inner"},
+    {"file": 106, "load_hp": 1, "rpm": 1772, "label": "inner"},
+    {"file": 107, "load_hp": 2, "rpm": 1750, "label": "inner"},
+    {"file": 108, "load_hp": 3, "rpm": 1730, "label": "inner"},
+    {"file": 118, "load_hp": 0, "rpm": 1797, "label": "ball"},
+    {"file": 119, "load_hp": 1, "rpm": 1772, "label": "ball"},
+    {"file": 120, "load_hp": 2, "rpm": 1750, "label": "ball"},
+    {"file": 121, "load_hp": 3, "rpm": 1730, "label": "ball"},
+    {"file": 130, "load_hp": 0, "rpm": 1797, "label": "outer"},
+    {"file": 131, "load_hp": 1, "rpm": 1772, "label": "outer"},
+    {"file": 132, "load_hp": 2, "rpm": 1750, "label": "outer"},
+    {"file": 133, "load_hp": 3, "rpm": 1730, "label": "outer"}
+  ]
+}

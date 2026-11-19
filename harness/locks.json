@@ -1,0 +1,10 @@
+{
+  "metrics": "bea635f8d3761aae004a98eac69b3a3563081c8ae22f575615fd2cb34f115545",
+  "ladder": "dc3fbe33e9ccff233becac948cea8e3015718ba09c5410e84cea960a69260e18",
+  "splits": {
+    "load0.json": "f10ee1fe343ee4c09648e278ccede32e61e6886f4f45c3f04bee922b1711e4d1",
+    "load1.json": "36a533e79978deb7c2fc800a7b0905f441140cdb6e6ae98b9e21896ff74eb17c",
+    "load2.json": "c2e55d28e3bc9897f6b00343ac886b7fe787db8c629a9f82f134177f45f91854",
+    "load3.json": "b74a2018ec7bd59e7c0a2148ce8d2d00ba30beec87d31b99f804dd8f8031b2a7"
+  }
+}
